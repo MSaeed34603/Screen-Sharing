@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Splash_Screen</string>
+    <string name="title1">Share Screen</string>
+    <string name="title2">Control Screen</string>
+    <string name="title3">Record Screen</string>
+    <string name="title4">Voice Call</string>
+    <string name="title5">Tutorial Gesture</string>
+
+
+    <string name="description1">Share your android screen with other android user</string>
+    <string name="description2">Control your device from other android device</string>
+    <string name="description3">You can Record your screen</string>
+    <string name="description4">You can Start a voic call</string>
+    <string name="description5">Enjoy Tutorial Gesture</string>
+
+
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
